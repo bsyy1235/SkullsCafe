@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScreen.unity
+    guid: 937f598953625224caf27e86aeb751bd
+  - enabled: 1
+    path: Assets/Scenes/playScreen.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/playScreen2.unity
+    guid: 4783d02b2d740ec448545b128e3464c7
+  - enabled: 1
+    path: Assets/Scenes/ClearScreen.unity
+    guid: 7cebb0677682a664f9fb8fea77cc097e
+  - enabled: 1
+    path: Assets/Scenes/ClearScreen2.unity
+    guid: 5099e03923da7c141a8360ff3d217455
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: a10cf66adaf0ed94cb92893895d54579
+  - enabled: 1
+    path: Assets/Scenes/GameOver2.unity
+    guid: bec18015d872a0a4293b403b0692fe50
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
+  m_UseUCBPForAssetBundles: 0
