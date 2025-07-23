@@ -15,7 +15,7 @@
 
 ### 게임 설치 방법:
 
-상단의 깃허브 링크에 들어가 Skull's Cafe.zip 파일 다운로드
+깃허브에서 Skull's Cafe.zip 파일 다운로드
 
 압축 해제 후 Skeleton.exe 파일 실행
 
