@@ -198,7 +198,7 @@ public class PlayerGrabber : MonoBehaviour
             if (hit.collider.CompareTag(cumstomerTag))
             {
                 CustomerInteraction customer = hit.collider.GetComponent<CustomerInteraction>();
-                if (customer != null)
+                if (customer != null && !customer.hasInteracted)
                 {
                     customer.ReceiveItem(grabbedObject);
                     grabbedObject = null;

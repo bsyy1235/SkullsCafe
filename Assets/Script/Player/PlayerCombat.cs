@@ -24,7 +24,6 @@ public class PlayerCombat : MonoBehaviour
 
     public void EndAttack()
     {
-        Debug.Log("EndAttack");
         isAttacking = false;
     }
 }
