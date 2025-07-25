@@ -66,5 +66,6 @@
 - 목표 코인: 30코인
 - 맵: 2가지(숲/바위지대)
 
-## 개발일지
-[티스토리](https://aewoong.tistory.com/7)
+## 링크
+[티스토리] https://aewoong.tistory.com/7
+[시연영상] https://youtu.be/hOxeiROrGVs
