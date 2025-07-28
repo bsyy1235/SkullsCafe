@@ -67,7 +67,7 @@
 ---
 
 # **구현 기능**
-1. 캐릭터 기능
+### 1. 캐릭터 기능
    
 -1. 플레이어
  - Player.cs
@@ -116,7 +116,7 @@
   특정 위치 도착하면 머리 위에 코인 프리팹 생성
   사망 시 코인이 분리되어 떨어짐
 
-2. GameManager
+### 2. GameManager
  - Time Manager
    타이머 관리 스크립트
    ESC키를 누르면 일시정지
@@ -134,7 +134,7 @@
    마우스로 카메라 회전
    게임 일시 정지 시 카메라 회전 멈춤
     
-3. 기타
+### 3. 기타
  - BewerageMaker
  - FillCupHelper
  - FloatingAnimation
